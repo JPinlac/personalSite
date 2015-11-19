@@ -21,7 +21,7 @@ p{
 }
 
 .contactButton {
-	max-width:150px;
+	max-width:75px;
 }
 
 #butts{
@@ -30,4 +30,9 @@ p{
 
 section:nth-child(odd){
 	background-color:rgba(170,170,200,.3);
+}
+
+.footer-below{
+	background-color:white;
+	color:black;
 }
