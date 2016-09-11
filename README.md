@@ -1,2 +1,1 @@
-# personalSite
-Live personal site.
+Live personal site. Hosted on unmanaged vps served using nginx.
