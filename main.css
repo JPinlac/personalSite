@@ -1,4 +1,16 @@
-
+.back{
+	background: rgb(0,214,206);
+	margin: 0;
+	position:fixed;
+	top: 60px;
+	left: 10px;
+	width: 120px;
+	height: 40px;
+	z-index:100;
+	text-decoration: none;
+	color: white;
+	border: none;
+}
 .navbar-brand {
     font-family: 'BenchNine',Helvetica,Arial,cursive;
     color: #fff;

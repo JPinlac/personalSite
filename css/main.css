@@ -1,4 +1,13 @@
-
+.back{
+	background: none;
+	margin: 0;
+	display:fixed;
+	top: 0;
+	left: 0;
+	width: 150px;
+	height: 50px;
+	z-index:100;
+}
 .navbar-brand {
     font-family: 'BenchNine',"Helvetica Neue",Helvetica,Arial,cursive;
     color: #fff;
